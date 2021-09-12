@@ -1,0 +1,33 @@
+.cards-container {
+  display: flex;
+  width: 350px;
+  height: 200px;
+  background-color: transparent;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  justify-content: center;
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background: rgba(225, 225, 225, 0.2);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+
+  position: relative;
+}
+
+.card-img {
+  width: 40%;
+}
+.card-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 38px;
+  text-decoration: none;
+}
+.item-link {
+  color: #000000;
+  text-decoration: none;
+}

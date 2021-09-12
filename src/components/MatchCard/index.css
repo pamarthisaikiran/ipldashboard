@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bgl {
+  background-color: #0f172a;
+  width: 300px;
+  height: 600px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+.imgl {
+  width: 150px;
+}
+.headingl {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+}
+.resultl {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
+.statu1 {
+  color: #18ed66;
+}
+.statu2 {
+  color: #e31a1a;
+}
